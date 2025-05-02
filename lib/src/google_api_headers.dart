@@ -10,7 +10,7 @@ import 'package:package_info_plus/package_info_plus.dart';
 /// import 'package:google_api_headers/google_api_headers.dart';
 ///
 /// final headers = await GoogleApiHeaders().getHeaders();
-/// ```
+/// ```@
 class GoogleApiHeaders {
   final MyPlatform platform;
 
